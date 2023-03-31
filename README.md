@@ -1,6 +1,6 @@
 # cypress - bdd - page object model
 
-cypress version 9.7.0
+cypress version 12.0.0
 
 Test Case Automation : 
 - login dashboard (Valid & Not Valid user)
